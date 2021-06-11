@@ -1,0 +1,50 @@
+.home{
+    
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: center;
+}
+
+.profImage{
+    max-width: 50px;
+    max-height: 50px;
+    margin-right: 5px;
+   
+}
+.profText{
+  color: #7C7C80;
+}
+.profCan{
+    display: flex;
+    flex-direction: row;
+    color: #7C7C80;
+    font-size: larger;   
+    
+  
+}
+.tableHeading{
+    color: #343951;
+    text-align: center;
+}
+
+
+.searchIcon {
+    
+    font-size: x-large;
+    position: 'absolute';
+    pointer-events: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #DAE0E4;
+}
+.searchTerm{
+   border: none;
+   
+
+}
+.arcButton{
+    background:white;
+    color: blue;
+    border: none;
+}
